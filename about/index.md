@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About Me 
+excerpt: About me
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  path: /images/so-simple-sample-image-4.jpg
-  feature: so-simple-sample-image-4.jpg
+  path: /images/profile.jpg
+  feature: profile.jpg 
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hi! My name is David Qian and I am a 4th year software engineering student at the University of Waterloo.
 
 ## So Simple Theme is all about:
 
