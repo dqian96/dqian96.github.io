@@ -116,6 +116,26 @@ a {
 	}
 }
 
+.short-link {
+    color: $short-link-color;
+    &:visited {
+		color: lighten($short-link-color, 20);
+	}
+
+	&:hover {
+		color: darken($short-link-color, 20);
+	}
+
+	&:focus {
+		outline: thin dotted;
+		color: darken($short-link-color, 20);
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+    }
+}
+
 /*
    Horizontal rules
    ========================================================================== */

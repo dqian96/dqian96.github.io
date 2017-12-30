@@ -9,7 +9,7 @@ Hi! My name is David Qian and I am a 4th year software engineering student at th
 
 <figure>
 	<img src="/images/profile.jpg" alt="image">
-	<figcaption>Dining at <a href="http://www.keikoanobhill.com/" target="_blank">KEIKO à Nob Hill</a>
+	<figcaption>Dining at <a class="short-link" href="http://www.keikoanobhill.com/" target="_blank">KEIKO à Nob Hill</a>
     in July 2017.</figcaption>
 </figure>
 
