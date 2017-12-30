@@ -3,14 +3,17 @@ layout: page
 title: About Me 
 excerpt: About me
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  path: /images/profile.jpg
-  feature: profile.jpg 
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Hi! My name is David Qian and I am a 4th year software engineering student at the University of Waterloo.
+
+<figure>
+	<img src="/images/profile.jpg" alt="image">
+	<figcaption>Dining at <a href="http://www.keikoanobhill.com/" target="_blank">KEIKO à Nob Hill</a>
+    in July 2017.</figcaption>
+</figure>
+
+This is a test
 
 ## So Simple Theme is all about:
 
