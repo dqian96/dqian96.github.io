@@ -19,13 +19,16 @@ at Airbnb in the summer 2018. Previously, I worked at Salesforce, Blackberry, an
 </figure>
 
 
-I strive to live with several core values. I strongly believe that one should be **_true to their word_**. I have
-nothing but the utmost respect for people who carry out what they say they will do. I believe that people should
-live with a **_purpose/dream_** in mind. Without a destination, it becomes impossible to measure progress and life
-becomes stagnant. To achieve a goal, I believe that **_hard work_** and **_self-reflection_** are critical. Tenacity and
+I lead my life following several principles. I strongly believe that one should be **_true to their word_**. I think
+that it is very admirable for people to act on their own words. Words are easy to utter but much harder to realize.
+
+I believe that people should live with a **_purpose/dream_** in mind.
+Without a destination, it becomes impossible to measure progress and life becomes stagnant.
+
+To achieve a goal, I believe that **_hard work_** and **_self-reflection_** are critical. Tenacity and
 persistence are difficult and often cannot be substituted by natural talent or luck. However, hard work without
-self-reflection could result in stagnation and inefficiency. Active reflection is a self-engineering process
-that highlights the strengths and weaknesses of your approach, leading to gains in efficiency.
+self-reflection could result in stagnation and inefficiency.
+I believe in a self-engineering process where one actively reflects on their own strengths and weaknesses.
 
 Here's a couple of facts about me. Each point isn't deserving enough of a whole paragraph so this seems to be
 the most reasonable format of presenting it.
@@ -34,15 +37,19 @@ the most reasonable format of presenting it.
 * I was a C student in elementary school
 * I am an IB program alumni
 * I'm currently learning Vim
-* I recently got into weight lifting and am following the 5/3/1 program (1RPMs as of Dec 2017: dl - 195, bench - 165,
+* I recently got into weight lifting and am following the 5/3/1 program (1RMs as of Dec 2017: dl - 195, bench - 165,
   squat - 185, OHP - 90)
-* I'm a beginner rock climber
-* I love data - I track how my lifts progress, the amount of work I do each day, etc.
-* I never read much as a child and I am (hugely) regretting this now
+* I recently discovered rock climbing and I'm loving it!
+* I love data - I track how my lifts progress, the number of <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">
+  pomodoros</a> I do each day, etc.
+* I never read much as a child and I'm trying to make up for lost pages now
+* Think before you act
+* Put yourself in other people's shoes
+* Timebox everything! This keeps your goals clear and reduces time wasted!
 
-On this blog, you might find posts on software engineering, computer science, books, and life. For example, some post
-ideas include: a book review on "How to Win Friends and Influence People" by Dale Carnegie, implementing Tim Sort
-for the HPC language Chapel, etc.
+On this blog, you might find posts on software engineering, computer science, books, food, and life. For example,
+some post ideas include: a book review on "How to Win Friends and Influence People" by Dale Carnegie,
+implementing Tim Sort for the HPC language Chapel, a restaurant review, etc.
 
 Email me at [dqian96@gmail.com](mailto:dqian96@gmail.com)
 
