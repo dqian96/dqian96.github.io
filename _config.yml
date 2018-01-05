@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Coffee and Code 
+title: Coffee && Code
 locale: en_US
-description: Ramblings on software development, books, and life of a 21 y/o student
-logo: site-logo.png
+description: On software development, books, food, travel, and life
+logo:
 search: true
 url: https://dqian96.github.io
 
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: David Qian 
+  name: David Qian
   avatar: profile.jpg
   email: dqian96 at gmail.com
-  disqus-shortname: https-dqian96-github-io 
+  disqus-shortname: https-dqian96-github-io
   twitter: #username
   facebook: dqian96
-  github: dqian96 
+  github: dqian96
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: dqian96
   instagram: #username

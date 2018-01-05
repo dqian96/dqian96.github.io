@@ -20,7 +20,7 @@ at Airbnb in the summer 2018. Previously, I worked at Salesforce, Blackberry, an
 
 
 I lead my life following several principles. I strongly believe that one should be **_true to their word_**. I think
-that it is very admirable for people to act on their own words. Words are easy to utter but much harder to realize.
+that it is damn admirable for people to act on their own words. Words are easy to utter but much harder to realize.
 
 I believe that people should live with a **_purpose/dream_** in mind.
 Without a destination, it becomes impossible to measure progress and life becomes stagnant.
@@ -43,9 +43,6 @@ the most reasonable format of presenting it.
 * I love data - I track how my lifts progress, the number of <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">
   pomodoros</a> I do each day, etc.
 * I never read much as a child and I'm trying to make up for lost pages now
-* Think before you act
-* Put yourself in other people's shoes
-* Timebox everything! This keeps your goals clear and reduces time wasted!
 
 On this blog, you might find posts on software engineering, computer science, books, food, and life. For example,
 some post ideas include: a book review on "How to Win Friends and Influence People" by Dale Carnegie,
