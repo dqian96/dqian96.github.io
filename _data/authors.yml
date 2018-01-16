@@ -1,14 +1,12 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+david_qian:
+  name: David Qian
+  web: https://dqian96.github.io
+  email: dqian96@gmail.com
+  bio: "Owner, mainer, and writer of this blog"
+  avatar: profile.jpg
+  twitter:
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me 
-excerpt: About me
-modified: 2014-08-08T19:44:38.564948-04:00
+excerpt: What kind of blog doesn't have an "About me" page?
+modified: 2018-01-16T06:37:09+00:00
 ---
 
 My name is David Qian and I am currently a 4th year software engineering student at the University of Waterloo.
@@ -20,7 +20,7 @@ at Airbnb in the summer 2018. Previously, I worked at Salesforce, Blackberry, an
 
 
 I lead my life following several principles. I strongly believe that one should be **_true to their word_**. I think
-that it is damn admirable for people to act on their own words. Words are easy to utter but much harder to realize.
+that it's incredibly admirable for people to act on their word. Words without action are shallow and superficial.
 
 I believe that people should live with a **_purpose/dream_** in mind.
 Without a destination, it becomes impossible to measure progress and life becomes stagnant.
@@ -35,13 +35,14 @@ the most reasonable format of presenting it.
 
 * I was born in Anshan, China and moved to Mississauga, Canada when I was 6
 * I was a C student in elementary school
-* I am an IB program alumni
+* I am an <a class="short-link" target="_blank" href="http://www.ibo.org/">IB</a> program alumni
 * I'm currently learning Vim
 * I recently got into weight lifting and am following the 5/3/1 program (1RMs as of Dec 2017: dl - 195, bench - 165,
   squat - 185, OHP - 90)
 * I recently discovered rock climbing and I'm loving it!
-* I love data - I track how my lifts progress, the number of <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">
-  pomodoros</a> I do each day, etc.
+* I love data - I track how my lifts progress, the number of
+  <a class="short-link" target="_blank" href="https://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoros</a>
+  I do each day, etc.
 * I never read much as a child and I'm trying to make up for lost pages now
 
 On this blog, you might find posts on software engineering, computer science, books, food, and life. For example,
