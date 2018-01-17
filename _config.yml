@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: David Qian
   avatar: profile.jpg
-  email: dqian96 at gmail.com
+  email: dqian96@gmail.com
   disqus-shortname: https-dqian96-github-io
   twitter: #username
   facebook: dqian96
@@ -52,7 +52,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-112611815-1
     verify:
     ad-client:
     ad-slot:

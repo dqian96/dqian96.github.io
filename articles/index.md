@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent Articles
+title: All Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
