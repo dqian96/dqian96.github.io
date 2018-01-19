@@ -1,15 +1,10 @@
 ---
 layout: post
-title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: The Importance of Self-Engineering
+excerpt: "How periodic self-evaluation is critical to growth and happiness"
 modified: 2016-06-01T14:17:25-04:00
 categories: articles
-tags: [sample-post]
-image:
-  path: /images/so-simple-sample-image-1.jpg
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+tags: [life, self-engineering, growth, opinion] 
 comments: true
 share: true
 ---
