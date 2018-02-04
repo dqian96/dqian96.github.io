@@ -33,7 +33,7 @@ the excitement wore off and the dust settled, I started getting thoughts that we
 > "Just one more League game..."
 
 I came to the daunting realization that slowly but surely, each day would be met with waning desire to pursue my
-aspirations. In a blink of an eye, an year would have passed and I would be once again staring at an empty document
+aspirations. In a blink of an eye, a year would have passed and I would be once again staring at an empty document
 trying to draft my goals, only for them to be orphaned soon after. Procrastination, self-indulgence, and straying away
 from the intended path are major precursors to disappointment and unfulfillment, and why success is so difficult to
 achieve.
@@ -73,14 +73,14 @@ look back on my goals and reflect on my progress, strengths, weaknesses, and nex
     </figcaption>
 </figure>
 
-I dedicate 5 minutes every morning to review my tasks for the day and 20 minutes every night to gather my thoughts
-about the day and plan my tasks for tomorrow. I try to keep my reflection concise so that the amount of effort required
-is low and it becomes easier to habitize.
+I dedicate 5 minutes every morning to review my tasks for the day and 20 minutes every night to reflect and
+make plans for tomorrow. I try to keep my reflections concise so that the amount of effort required
+is low and it becomes easier to habituate.
 
-I've been practicing self-reflection for a year or so. Admittely, it has been on and off. I tend to have long streaks of
-practice followed by streaks of ignoring it completely. However, this A/B test does reveal that I self-indulge less,
-manage my todo list better, and get more work done when I practice it. Looking back, it's clear that practicing
-self-reflection has helped stabilize my life and made it easier than ever for me to focus on and work towards my goals.
+I've been practicing self-reflection for a year or so, albeit my commitment to it waxes and wanes from week to week.
+Conveniently, this situation sets up an A/B test which reveals that I self-indulge less, manage my todo list better, and
+get more work done when I actively self-reflect. Looking back, it's clear that practicing self-reflection has helped
+stabilize my life and made it easier than ever for me to work towards my goals.
 
 <hr>
 ##### Footnotes
