@@ -9,15 +9,12 @@ My name is David Qian and I am currently a 4th year software engineering student
 I am currently interning as a software engineer on the Data.AI team at Facebook and will be interning
 at Airbnb in the summer 2018. Previously, I worked at Salesforce, Blackberry, and SAP.
 
-
 <figure>
-	<img src="/images/profile.jpg" alt="image">
-	<figcaption>
-        Dining at <a class="short-link" href="http://www.keikoanobhill.com/" target="_blank">KEIKO à Nob Hill</a>
-        in July 2017.
+    <img src="/images/golden_gate_profile.jpg" alt="image">
+    <figcaption>
+        Golden Gate Bridge, Feb 2018
     </figcaption>
 </figure>
-
 
 I lead my life following several principles. I strongly believe that one should be **_true to their word_**. I think
 that it's incredibly admirable for people to act on their word. Words without action are shallow and superficial.
