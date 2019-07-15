@@ -160,11 +160,6 @@ figure {
   padding-bottom: 10px;
   @include clearfix;
 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;
-
   img {
     margin-bottom: 10px;
   }
@@ -198,6 +193,16 @@ figcaption {
 	@include font-size(14);
 	line-height: 1.3;
 	color: lighten($text-color, 10);
+}
+
+.centerfigure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerfigure.reduce {
+  width: 75%;
 }
 
 

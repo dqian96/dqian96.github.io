@@ -14,7 +14,7 @@ graduate of the University of Waterloo. I studied software engineering for 5 yea
 that time, I co-op'd (in reverse chronological order) Airbnb, Facebook, Salesforce, Blackberry, and
 SAP. I'm currently work at Facebook at their headquarters in Menlo Park, California.
 
-<figure>
+<figure class="centerfigure reduce">
     <img src="/images/hallstatt_portrait_small.jpg" alt="image">
     <figcaption>
         Hallstatt, July 2019

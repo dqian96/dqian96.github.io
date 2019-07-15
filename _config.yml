@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: David Qian
-  avatar: golden_gate_profile.jpg
+  avatar: hallstatt_profile.jpg
   email: dqian96@gmail.com
   disqus-shortname: https-dqian96-github-io
   twitter: #username
@@ -45,7 +45,7 @@ owner:
   github: dqian96
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: dqian96
-  instagram: #username
+  instagram: dqian96
   flickr: #username
   tumblr: #username
   pinterest: #username
