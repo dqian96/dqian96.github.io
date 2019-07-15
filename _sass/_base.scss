@@ -160,6 +160,11 @@ figure {
   padding-bottom: 10px;
   @include clearfix;
 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
   img {
     margin-bottom: 10px;
   }

@@ -5,17 +5,41 @@ excerpt: What kind of blog doesn't have an "About me" page?
 modified: 2018-01-16T06:37:09+00:00
 ---
 
-My name is David Qian and I am currently a 4th year software engineering student at the University of Waterloo.
-I am currently interning as a software engineer on the Data.AI team at Facebook and will be interning
-at Airbnb in the summer 2018. Previously, I worked at Salesforce, Blackberry, and SAP.
+Hey there! Nice to meet you, my name is David. Looks like you stumbled on my blog. On here, you'll
+find a (admittely, very limited) assortment of my ramblings on life, travel, software development,
+and whatever else that I happen to find interesting.
+
+Since you're on this page, I'm assuming you want to know a little more about me. I'm a recent
+graduate of the University of Waterloo. I studied software engineering for 5 years there. During
+that time, I co-op'd (in reverse chronological order) Airbnb, Facebook, Salesforce, Blackberry, and
+SAP. I'm currently work at Facebook at their headquarters in Menlo Park, California.
 
 <figure>
-    <img src="/images/golden_gate_profile.jpg" alt="image">
+    <img src="/images/hallstatt_portrait_small.jpg" alt="image">
     <figcaption>
-        Golden Gate Bridge, Feb 2018
+        Hallstatt, July 2019
     </figcaption>
 </figure>
 
+I grew up in the suburbs of Toronto with my immigrant family. And just like about every Asian kid
+that I knew, I grew up learning piano, academically studios, and playing lots of video games -
+typical right? As I aged, I started to appreciate the importance of _variety_, in experiences,
+passions, and relationships. Now, I spend my time an amalgamation of the following:
+
+* reading
+* solo-backpacking
+* powerlifting (you can find my workout plans <a class="short-link" target="_blank" href="
+https://docs.google.com/spreadsheets/d/1y_kKK-yfKHm2xfnHU9Y34mM-GAIWd6a_m1owIcutHFw/edit?usp=sharing">here</a>)
+* learning fingerstyle guitar
+* learning to cook
+* writing blog entries
+* rock climbing
+* playing Catan with my friends
+
+Most of the essays on this blog are for my own benefit - they help express and summarize my own
+experiences and learnings. However, I do hope you find some of my musings interesting or useful!
+
+<!---
 I lead my life following several principles. I strongly believe that one should be **_true to their word_**. I think
 that it's incredibly admirable for people to act on their word. Words without action are shallow and superficial.
 
@@ -26,25 +50,8 @@ To achieve a goal, I believe that **_hard work_** and **_self-reflection_** are 
 persistence are difficult and often cannot be substituted by natural talent or luck. However, hard work without
 self-reflection could result in stagnation and inefficiency.
 I believe in a self-engineering process where one actively reflects on their own strengths and weaknesses.
+-->
 
-Here's a couple of facts about me. Each point isn't deserving enough of a whole paragraph so this seems to be
-the most reasonable format of presenting it.
-
-* I was born in Anshan, China and moved to Mississauga, Canada when I was 6
-* I was a C student in elementary school
-* I am an <a class="short-link" target="_blank" href="http://www.ibo.org/">IB</a> program alumni
-* I'm currently learning Vim
-* I recently got into weight lifting and am following the 5/3/1 program (1RMs as of Dec 2017: dl - 195, bench - 165,
-  squat - 185, OHP - 90)
-* I recently discovered rock climbing and I'm loving it!
-* I love data - I track how my lifts progress, the number of
-  <a class="short-link" target="_blank" href="https://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoros</a>
-  I do each day, etc.
-* I never read much as a child and I'm trying to make up for lost pages now
-
-On this blog, you might find posts on software engineering, computer science, books, food, and life. For example,
-some post ideas include: a book review on "How to Win Friends and Influence People" by Dale Carnegie,
-implementing Tim Sort for the HPC language Chapel, a restaurant review, etc.
-
-Email me at [dqian96@gmail.com](mailto:dqian96@gmail.com)
+Best way to contact me would be through email! Feel free to 
+shoot me a message at: dqian96 AT gmail dot com.
 
