@@ -1,13 +1,5 @@
-# Site navigation links
-
 - title: About
   url: /about/
-
-- title: Home
-  url: /
-
-- title: Tags
-  url: /tags/
 
 - title: Readings
   url: /readings/
@@ -17,3 +9,12 @@
 
 - title: Resume
   url: /docs/resume.pdf
+
+- title: Posts
+  url: /posts/
+
+- title: Categories
+  url: /categories/
+
+- title: Search
+  url: /search/

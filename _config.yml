@@ -1,59 +1,97 @@
-# Site wide configuration
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-title: Coffee && Code
+theme: jekyll-theme-so-simple
 locale: en_US
-description: On software, books, food, travel, and life
-logo: black-coffee-clipart.jpg
+
+title: "Coffee && Code"
+description: "On software, books, food, travel, and life"
+logo: "/docs/images/black-coffee-clipart.jpg"
+url: "https://dqian96.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+
+date_format: "%B %-d, %Y"
+read_time: # reading time estimates, e.g. true
+words_per_minute: # 200
+mathjax: # MathJax equations, e.g. true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+# TODO add google analytics
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+
+disqus:
+  shortname: "https-dqian96-github-io"
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+# paginate: 10
+# paginate_path: /page:num/
+
+# Search
 search: true
-url: https://dqian96.github.io
+search_full_content: false # can have performance implications for large sites
 
-# Jekyll configuration
+# Taxonomy pages
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
+  - jekyll-paginate
 
-kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
 
-mathjax: true
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Site owner
-owner:
-  name: David Qian
-  avatar: hallstatt_profile.jpg
-  email: dqian96@gmail.com
-  disqus-shortname: https-dqian96-github-io
-  twitter: #username
-  facebook: dqian96
-  github: dqian96
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: dqian96
-  instagram: dqian96
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics: UA-112611815-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+# Footer Links
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/dqian96
+    icon: fab fa-instagram
+  - title: github
+    url: https://github.com/dqian96
+    icon: fab fa-github-square
+  - title: facebook
+    url: https://facebook.com/dqian96
+    icon: fab fa-facebook
+  - title: linkedin
+    url: https://linkedin.com/in/dqian96
+    icon: fab fa-linkedin
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

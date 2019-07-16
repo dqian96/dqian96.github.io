@@ -1,10 +1,8 @@
-# Authors
-
-david_qian:
+dqian96:
   name: David Qian
-  web: https://dqian96.github.io
-  email: dqian96@gmail.com
   bio: "Owner, maintainer, and writer of this blog"
-  avatar: profile.jpg
-  twitter:
+  picture: "/docs/images/hallstatt_profile.jpg"
+  email: dqian96@gmail.com
+  web: https://dqian96.github.io
+  avatar: hallstatt_profile.jpg
 

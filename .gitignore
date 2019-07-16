@@ -1,11 +1,12 @@
-*.sublime-project
-*.sublime-workspace
+_asset_bundler_cache
+_site
+.bundle
 .DS_Store
 .jekyll-metadata
 .sass-cache
-_site
+*.gem
 codekit-config.json
 Gemfile.lock
 node_modules
-*.swp
-.tags
+npm-debug.log*
+_temp/
