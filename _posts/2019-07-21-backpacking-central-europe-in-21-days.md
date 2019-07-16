@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "The Importance of Self-reflection"
-excerpt: "How periodic self-reflection is critical to achieving your dreams."
-categories: articles
-tags: [life, life hacks, self-reflection, opinion]
-image:
-  feature:
+title: "Backpacking Europe in 21 days"
+excerpt: "Walk Ten Thousand Miles, Read Ten Thousand Books"
+categories: travel
+tags: [life, travel, Europe, backpacking]
 comments: true
 share: true
+author: dqian96
 search_omit: false
 ---
 
@@ -67,7 +66,7 @@ have binary outcomes, for e.g. "go rock climbing for an hour at 7 PM". At the en
 look back on my goals and reflect on my progress, strengths, weaknesses, and next steps for improvement.
 
 <figure>
-	<img src="/images/posts/self-reflection/yearly_goals.png" alt="image">
+	<img src="/docs/images/posts/self-reflection/yearly_goals.png" alt="image">
 	<figcaption>
         My goal list for 2018. Stored on Google Keep.
     </figcaption>

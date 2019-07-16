@@ -12,20 +12,20 @@ and whatever else that I happen to find interesting.
 
 Since you're on this page, I'm assuming you want to know a little more about me. I'm a recent
 graduate of the University of Waterloo. I studied software engineering for 5 years there. During
-that time, I co-op'd (in reverse chronological order) Airbnb, Facebook, Salesforce, Blackberry, and
-SAP. I'm currently work at Facebook at their headquarters in Menlo Park, California.
+that time, I co-op'd (in reverse chronological order) at Airbnb, Facebook, Salesforce, Blackberry, and
+SAP. I'm currently working at Facebook at their headquarters in Menlo Park, California.
 
 <figure class="centerfigure reduce">
-    <img src="/docs/images/hallstatt_portrait_small.jpg" alt="image">
+    <img src="/images/pages/hallstatt_portrait.jpg" alt="image">
     <figcaption>
         Hallstatt, July 2019
     </figcaption>
 </figure>
 
-I grew up in the suburbs of Toronto with my immigrant family. And just like about every Asian kid
+I grew up in the suburbs of Toronto with my immigrant family. And just like about every other Asian kid
 that I knew, I grew up learning piano, academically studios, and playing lots of video games -
 typical right? As I aged, I started to appreciate the importance of _variety_, in experiences,
-passions, and relationships. Now, I spend my time an amalgamation of the following:
+passions, and relationships. Now, I spend my time pursuing an amalgamation of the following:
 
 * reading
 * solo-backpacking
