@@ -12,7 +12,7 @@ and whatever else that I happen to find interesting.
 
 Since you're on this page, I'm assuming you want to know a little more about me. I'm a recent
 graduate of the University of Waterloo. I studied software engineering for 5 years there. During
-that time, I co-op'd (in reverse chronological order) at Airbnb, Facebook, Salesforce, Blackberry, and
+that time, I interned (in reverse chronological order) at Airbnb, Facebook, Salesforce, Blackberry, and
 SAP. I'm currently working at Facebook at their headquarters in Menlo Park, California.
 
 <figure class="centerfigure reduce">

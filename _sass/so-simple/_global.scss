@@ -9,6 +9,35 @@
     list-style: none;
   }
 }
+.short-link {
+    color: $short-link-color;
+    &:visited {
+		color: lighten($short-link-color, 20);
+	}
+
+	&:hover {
+		color: darken($short-link-color, 20);
+	}
+
+	&:focus {
+		color: darken($short-link-color, 20);
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+    }
+}
+
+.centerfigure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerfigure.reduce {
+  width: 75%;
+}
+
 
 #menu-toggle {
   display: block;

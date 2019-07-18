@@ -10,6 +10,7 @@ $xlarge: 1280px !default;
 
 /* Fluid type */
 $base-font-size: 16px !default;
+$quote-font-size: 21px !default;
 $min-vw: $small !default;
 $max-vw: $xlarge !default;
 $min-font-size: 14px !default;
@@ -41,6 +42,7 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 $serif-font-family: "Lora", serif !default;
 $sans-serif-font-family: "Source Sans Pro", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
+$quote-font-family: 'volkhov', serif !default;
 
 $base-font-family: $sans-serif-font-family !default;
 $headline-font-family: $sans-serif-font-family !default;
@@ -60,12 +62,16 @@ $background-color: #fff !default;
 $nav-background-color: #000 !default;
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
+$quote-border-color: #000 !default;
 
 $primary-color: #000 !default;
 $success-color: #62c462 !default;
 $warning-color: #f89406 !default;
 $danger-color: #ee5f5b !default;
 $info-color: #52adc8 !default;
+
+$link-color: #222 !default;
+$short-link-color: #ff6666 !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: #000 !default;

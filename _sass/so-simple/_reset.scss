@@ -220,16 +220,34 @@ small {
  * browsers (opinionated).
  */
 
-blockquote {
-  margin-right: 0;
-  margin-left: 0;
-  padding: 2em 3em;
-  background-color: mix(#fff, $accent-color, 95%);
-  border-left: solid 0.5em $accent-color;
+// Original Blockquote
+// blockquote {
+//   margin-right: 0;
+//   margin-left: 0;
+//   padding: 2em 3em;
+//   background-color: mix(#fff, $accent-color, 95%);
+//   border-left: solid 0.5em $accent-color;
 
-  *:last-child {
-    margin-bottom: 0;
-  }
+//   *:last-child {
+//     margin-bottom: 0;
+//   }
+// }
+
+blockquote {
+    margin-right: 0;
+    margin-left: 0;
+	padding-left: 20px;
+
+	// @include font-size(16);
+	font-family: $quote-font-family;
+	font-style: italic;
+    font-size: $quote-font-size;
+
+	border-left: 8px solid $quote-border-color;
+
+    *:last-child {
+      margin-bottom: 0;
+    }
 }
 
 /**

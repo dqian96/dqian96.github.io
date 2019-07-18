@@ -101,12 +101,35 @@ figcaption {
   font-size: 80%;
 }
 
-a {
-  color: $accent-color;
-  -webkit-transition: $global-transition;
-  transition: $global-transition;
+// a {
+//   color: $accent-color;
+//   -webkit-transition: $global-transition;
+//   transition: $global-transition;
 
-  &:hover {
-    color: shade($accent-color, 25%);
-  }
+//   &:hover {
+//     color: shade($accent-color, 25%);
+//   }
+// }
+
+a {
+	text-decoration: none;
+	color: $link-color;
+
+	&:visited {
+		color: lighten($link-color, 20);
+	}
+
+	&:hover {
+		color: darken($link-color, 20);
+	}
+
+	&:focus {
+		outline: thin dotted;
+		color: darken($link-color, 20);
+	}
+
+	&:hover,
+	&:active {
+		outline: 0;
+	}
 }
