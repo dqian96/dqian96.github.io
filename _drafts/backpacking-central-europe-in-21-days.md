@@ -10,6 +10,68 @@ author: dqian96
 search_omit: false
 ---
 
+ideas
+* interweaving descriptions about cities and personal stories
+* germany, czech, austria, hungary, poland
+* benefits of travelling
+* description of each country
+* preparation
+* thoughts and ideas
+* people you meet
+* advice/tips/tricks, hostels and airbnbs
+* theme? diversity, variety, and expanding your worldview, monotonocity of tech?
+* future
+* putting yourself out there
+* history/art/facts
+* interweave everything?
+* random fact pop up
+* lots of pictures
+* motivation
+* learn something new? be inspired? get to know me?
+
+
+The University of Waterloo is reputed for several things. People often celebrate the school's
+intensive co-op program and academic rigor. The break-neck pace of consecutively alternating
+back-and-forth from heavy study terms to internship terms affords very little in-between, sometimes
+less than a week. This structure can be prohibitive to students wanting to take time off to travel,
+but certainly not impossible. For me, I found it hard to find time to take extended away school. As
+my education marched towards its close, I found myself with time on my hands that I didn't know what
+to do with. Many of my friends decided to take a grad-trip, a classic coming-of-age experience that
+is often mirred with 'finding oneself', binge drinking, and partying. A quick Google search of 
+'grad trip' exposes dozens of agencies advertising exotic destinations, culture, and adventure. Our
+culture glorifies and commercializes travel and experiences much like our Amazon Prime Day, Black
+Friday, or Boxing Day. Can you imagine a company inventing a pseudo-holiday to sell its slew of cheaply
+produced goods that will manafactured, packaged, shipped, used, opened, used, and disposed once?
+Despite my initially cynical view of traveling, it's...
+
+where, what how?
+
+Having never traveled without my family, I was pretty anxious taking an extended sabbatical to
+far-away countries and living in hostels. A small part of the fear stemmed from physical danger, a
+moderate part stemmed from losing important documents or missing connections, and the majority was
+due to not having a fulfilling trip. When solo-traveling, you are the master of your own time and
+actions. If you're lazy/timid, you could seek refuge in the hedonistic pleasures of the Internet. 
+
+I did extensive research on my trip. First I decided the budget, destination, and length of stay.
+From my internship savings, I was prepared to spend $3000 USD. Having been surrounded by a plethora
+of Asian culture in my upbringing, I decided to choose Europe as my destination. After reading about
+possible in rural areas, pickpockets, and the scarcity of English, I decided against Eastern Europe.
+Western Europe didn't seem rugged enough for backpacking. Thus, I chose a happy medium in Central
+Europe, interested in both the history, culture, and architectural beauty that some of its cities
+had to offer. I felt that 3 weeks would be ample time to enjoy my trip, without hitting that wall of
+tiredness and loneliness that may come with solo-travel. The rest of my preparation was
+straightforward. I read articles on vaccinations, packing lists, Visas, travel between cities,
+accomodations, food, money, flights, insurance, and attractions in each city. In choosing hostels, I
+wanted to a sample a variety of different types. I tried large, chain hostels, hostels known for its
+parties, and small, family-run homestays. In destinations, I alternated between big cities and small
+towns to get a variety of experiences, and to also allow a breather from city nightlife.
+
+
+    
+
+
+
+
 ### Why self-reflect?
 
 In the summer of 2015, I read _Steve Jobs_, a fantastic biography by Walter Issacson. I read the book during a time of

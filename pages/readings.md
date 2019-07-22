@@ -6,7 +6,7 @@ excerpt: "Books, blogs, articles..."
 search_omit: false
 ---
 
-You can find the complete list of my reading on <a class="short-link" target="_blank"
+You can find the complete list of my readings on <a class="short-link" target="_blank"
 href="https://www.goodreads.com/user/show/77130775-david-qian">goodreads</a>.
 
 ## Favourite Books
