@@ -16,7 +16,7 @@ breakneck pace of study and internship terms afforded sometimes as little as a w
 semesters. In conjunction with my relatively restrictive schooling conditions, my priorities were on
 academics and career, rather than leisure. Thus, as I approached graduation, I found myself left
 with both an abundance of time and a foreign appetite for respite. Like most of my peers, I decided
-to spend my sabbatical on the iconic, coming-of-age adventure known as the _grad trip_. I mean, 
+to spend my sabbatical on the iconic, coming-of-age adventure known as the _grad trip_. I mean,
 you can only "discover yourself" so much when you're coding 5 hours a day.
 
 At 22 years old, I had never traveled more than a couple of days before. Most of the destinations I
@@ -78,7 +78,10 @@ Berlin is one of the most historically significant cities in the 20th century. I
 apparent from the architecture. The buildings from the Third Reich are monumentalist - simple,
 uniform, and elevated function over form. East Berlin highlights the brutalist architecture of the
 Soviets - bleak, concrete, and square, whereas West Berlin embraces a more modern style - emphasis
-on form and use of large, open spaces.
+on form and use of large, open spaces. Despite bolstering a hefty population of 3.5 million, I
+rarely felt "cramped". Roads are wide, with lanes reserved for pedestrians, bikes, and vehicles
+throughout most of the city. Every few blocks, you'll come across large clearings for a monument,
+park, or simply a grassy field. I've never enjoyed being in a city as much as Berlin.
 
 To learn about the history of Berlin, I signed up for a intimate coffee talk with several locals, <a
 href="https://www.airbnb.com/experiences/118557">Valerie and Regina</a>, in which I learned a lot
@@ -89,21 +92,53 @@ and surveillance. Despite the many luxuries that capitalism was able to provide,
 mentioned that it might have come at a cost. There is a dichotomy in core values between East and
 Western Berliners. The people of the East deeply valued family and community whereas the people of
 the West worked hard for economic prosperity. It's clear that people cannot be happy without some
-fundamental needs such as a safety and food, but to what effect does emphasizing individualism and
-diminishing community have on our happiness? Human have been heavily communal for much, much longer
+fundamental needs such as safety and food, but to what effect does emphasizing individualism and
+economic success have on our happiness? Human have been heavily communal for much, much longer
 after all.
 
-<figure class="centerfigure reduce">
+<figure class="centerfigure reduce75">
 	<img src="/images/posts/backpacking-2019/valerie_regina_small.png" alt="image">
 	<figcaption>
         My Airbnb Experience group for Valerie&Regina!
     </figcaption>
 </figure>
 
+After 3 days in Berlin, I left for Dresden. Dresden is one of the most beautiful cities I've ever
+been to. In the Old Town, you'll come across innumerable churches, monuments, and museums
+demonstrating architecture from the Baroque and Renaissance periods. In the New Town, you'll find a
+very modern selection of stores, restaurants, and bars. I stayed at <a
+href="https://www.lollishome.de/en/">Lolli's Homestay</a>, a very small and family managed hostel,
+for 2 nights. At night, I went out with some other hostelers to drink. We brought our own beers
+and sat on a curb in street laced with bars. Tons of locals and travelers were huddled in groups on
+the street, singing, smoking, chitchatting, and of course, drinking. The hostelers had very diverse
+backgrounds; one was a PhD student in psychology, another was a French Canadian studying in Germany,
+one was a musician, the other a mechanical engineer - the list goes on. But what unified this
+tapestry of cultures, backgrounds, and races was open-mindedness and a love for traveling and
+adventure.
+
+<figure>
+	<img src="/images/posts/backpacking-2019/dresden_city.jpg" alt="image">
+	<figcaption>
+        Old Town Dresden. Stunning architecture everywhere.
+    </figcaption>
+</figure>
+
+An hour train ride from Dresden, you can find the national park Saxon Switerzland. This gorgeous
+park is filled with rocky canyons and straddles both Germany and the Czech
+Republic. I entered the park from the small town of Königstein and hiked the Lilienstein route in
+about 4 hours. At the apex of the hike, I was rewarded with a beautiful view of the small town.
+
+<figure class="centerfigure reduce50">
+	<img src="/images/posts/backpacking-2019/saxon_switerzland.jpg" alt="image">
+	<figcaption>
+        View of Königstein from above.
+    </figcaption>
+</figure>
+
 ### Czech Republic
 
-Prague - a city celebrated for its history, beauty, and nightlife. In old town Prague, tall,
-colorful buildings were packed closely to each other, often leaving a narrow, wounding road. The
+Prague. A city famously touted for its history, beauty, and nightlife. In old town Prague, tall,
+colorful buildings were packed closely next to each other, often leaving a narrow, wounding road. The
 height of the buildings allowed sunlight to bathe the neatly maintained cobblestone roads only at
 the noon of day. Roads twisted and turned like a maze with gothic buildings instead of hedges. The
 different paths converged to the Old Town Square - a grand clearing that immaculately contrasts the
@@ -113,16 +148,21 @@ tourists and aged monuments. At midnight, the tourists begin to thin out, leavin
 people sitting in small circles drinking and laughing under the warm hue of the streetlights. In
 other words, Prague is beautiful.
 
+<figure>
+	<img src="/images/posts/backpacking-2019/prague_squre.jpg" alt="image">
+	<figcaption>
+        Old Town Square at night! My picture doesn't do this place justice.
+    </figcaption>
+</figure>
+
 On the first night of my stay, I participated in a bar crawl hosted on Airbnb Experiences. I played
 drinking games with people from all over the world - Korea, Austria, Canada, Americans (San
-Francisco to be exact - small world eh?). 
+Francisco to be exact - small world eh?).
 
 
 
 
 
-k carried my 20 lb backpack around to get a data plan. 
-lb backpack from Berlin Tegel Airport (a very )
 
 ideas
 * interweaving descriptions about cities and personal stories
@@ -148,12 +188,11 @@ Structure
 * planning
 * germany
     * meeting new people/hostels/traveling culture
-    * time afforded to yourself
+    * capitalism vs communism
 * czech
-    * locals on the train 
+    * locals on the train/meeting new people/loneliness
 * austria
-    * reading and music
-    * loneliness and meeting people
+    * reading and music and the time you have
 * hungary
     * 4 girls story
     * challenges you/girls face in traveling
@@ -205,23 +244,23 @@ day-to-day activities in order to maintain spontaneity and freedom. In retrospec
 research, but I ended up being very prepared - i.e. where to draw cash, ear plugs/eye covers,
 staying at compatible hostels, how much to back/what to bring, etc.
 
-looking at the cost of living/travel in  
-
-
-    
+looking at the cost of living/travel in
 
 
 
 
 
-Senior trip. It's an iconic coming-of-age phenomenon in the Western world. Most of my friends 
+
+
+
+Senior trip. It's an iconic coming-of-age phenomenon in the Western world. Most of my friends
 
 
 The past 5 years of my years was filled with studying, interviewing, moving, and working. Between
 school and work terms, sometimes I'm left with only less than a week of break in between. And so,
 as my undergraduate career reached its conclusion, I suddenly myself afforded with an uncanny amount
 of time on my hands. Finally, the time would be wholly mine and I could choose whatever I wanted to
-do with it. 
+do with it.
 
 
 The University of Waterloo is reputed for several things. People often celebrate the school's
@@ -242,4 +281,4 @@ Having never traveled without my family, I was pretty anxious taking an extended
 far-away countries and living in hostels. A small part of the fear stemmed from physical danger, a
 moderate part stemmed from losing important documents or missing connections, and the majority was
 due to not having a fulfilling trip. When solo-traveling, you are the master of your own time and
-actions. If you're lazy/timid, you could seek refuge in the hedonistic pleasures of the Internet. 
+actions. If you're lazy/timid, you could seek refuge in the hedonistic pleasures of the Internet.
