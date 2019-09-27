@@ -155,9 +155,23 @@ other words, Prague is beautiful.
     </figcaption>
 </figure>
 
-On the first night of my stay, I participated in a bar crawl hosted on Airbnb Experiences. I played
-drinking games with people from all over the world - Korea, Austria, Canada, Americans (San
-Francisco to be exact - small world eh?).
+On the first night of my stay, I participated in an <a
+href="https://www.hostelworld.com/hosteldetails.php/Wombats-City-Hostel-Berlin/Berlin/22933"> Airbnb
+Experience bar crawl </a>. Our group was exceedingly diverse - there were Canadians, Americans,
+Austrians, and South Koreans, of varying ages and professions. We went to several bars with our
+host and played a drinking game at each destination. After the Experience, the group decided to
+continue the fun by going to nearby club. There was this one super jacked and big Austrian police
+officer (who is supposedly Diamond 2 on the South Korean League of Legends server and solo-killed
+Faker, apparently) who tried to hit on two of the girls in our group. How? By arm wrestling all the
+other guys and getting real close and personal. That was interesting.
+
+> picture of group
+
+> beautiful park of prague
+
+> train goers czech offered me a drink
+> prague castle
+
 
 
 
