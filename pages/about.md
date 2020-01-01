@@ -12,8 +12,9 @@ and whatever else that I happen to find interesting.
 
 Since you're on this page, I'm assuming you want to know a little more about me. I'm a recent
 graduate of the University of Waterloo. I studied software engineering for 5 years there. During
-that time, I interned (in reverse chronological order) at Airbnb, Facebook, Salesforce, Blackberry, and
-SAP. I'm currently working at Facebook at their headquarters in Menlo Park, California.
+that time, I interned (in reverse chronological order) at Airbnb, Facebook, Salesforce, Blackberry,
+and SAP. I'm currently working as a software engineer at Facebook in Menlo
+Park, California.
 
 <figure class="centerfigure reduce75">
     <img src="/images/pages/hallstatt_portrait.jpg" alt="image">
@@ -34,7 +35,7 @@ https://docs.google.com/spreadsheets/d/1y_kKK-yfKHm2xfnHU9Y34mM-GAIWd6a_m1owIcut
 * learning fingerstyle guitar
 * learning to cook
 * writing blog entries
-* rock climbing
+* practicing Muay Thai
 * playing Catan with my friends
 
 Most of the essays on this blog are for my own benefit - they help express and summarize my own
@@ -53,6 +54,5 @@ self-reflection could result in stagnation and inefficiency.
 I believe in a self-engineering process where one actively reflects on their own strengths and weaknesses.
 -->
 
-Best way to contact me would be through email! Feel free to 
+Best way to contact me would be through email! Feel free to
 shoot me a message at: dqian96 AT gmail dot com.
-
