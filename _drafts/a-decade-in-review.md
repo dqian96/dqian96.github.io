@@ -103,7 +103,7 @@ previous decade. Here are some of the most memorable moments:
 * I graduated from University with Distinction
 * I read 13 books - the most I've ever read in a year
 * I visited China for the first time in 5 years and reconnected with my family. I saw the beauty of
-  Hanzhou/Suzhou and was blown away by the gradiosity and modernity of Shanghai
+  Hanzhou/Suzhou and was blown away by the grandiosity and modernity of Shanghai
 * I solo-backpacked Central Europe in 21 days and connected with people from different parts of the
   world
 * I started playing guitar
