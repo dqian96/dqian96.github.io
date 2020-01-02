@@ -8,7 +8,7 @@ theme: jekyll-theme-so-simple
 locale: en_US
 
 title: "Coffee && Code"
-description: "On software, books, food, travel, and life"
+description: "On tech, books, travel, and life"
 logo: "/images/site-logo.jpg"
 url: "https://dqian96.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
