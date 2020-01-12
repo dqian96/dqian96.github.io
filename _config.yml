@@ -22,7 +22,6 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-# TODO add google analytics
 google_analytics: "UA-112611815-1"
 
 disqus:
